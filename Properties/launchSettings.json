@@ -2,7 +2,7 @@
   "profiles": {
     "FuncDev": {
       "commandName": "Project",
-      "commandLineArgs": "--port 7071",
+      "commandLineArgs": "--port 7212",
       "launchBrowser": false
     }
   }

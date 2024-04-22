@@ -12,9 +12,9 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
+				"Azurite.azurite",
 				"ms-azuretools.vscode-azurefunctions",
-				"ms-dotnettools.csharp",
-				"Azurite.azurite"
+				"ms-dotnettools.csharp"
 			]
 		}
 	}
