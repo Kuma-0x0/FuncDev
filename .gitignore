@@ -264,3 +264,7 @@ __pycache__/
 *.pyc
 
 packages-microsoft-prod.deb
+
+# Azurite extension
+__azurite_*.json
+__blobstorage__/*
